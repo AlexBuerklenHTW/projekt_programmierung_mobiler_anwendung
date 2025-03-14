@@ -1,0 +1,3 @@
+type MensaHeaderProps = {
+    mensaParam: MensaDataType;
+};
